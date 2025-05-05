@@ -1,4 +1,4 @@
-package io.github.qin.oop;
+package io.github.qin.oop.staticdemo;
 
 class Base{
     static String staticVar = "staticVar";
